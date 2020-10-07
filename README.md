@@ -2,4 +2,4 @@ check this project: [github explorer](https://github.com/facebook/create-react-a
 
 ## github explorer
 
-[github explorer](github explorer.gif)
+![github explorer](github-explorer.gif)
