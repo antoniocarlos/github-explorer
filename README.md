@@ -1,4 +1,4 @@
-check this project: [github explorer](https://github.com/facebook/create-react-app).
+check this project: [github explorer](githubexplorerexample.netlify.app).
 
 ## github explorer
 
