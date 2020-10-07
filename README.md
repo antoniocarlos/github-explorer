@@ -1,4 +1,4 @@
-Check this project online: [github explorer](githubexplorerexample.netlify.app).
+Check this project online: [github explorer](https://githubexplorerexample.netlify.app).
 
 ## 🧭 github explorer
 
